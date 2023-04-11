@@ -1,0 +1,66 @@
+/* ----------- navbar ----------*/
+.nav-right-ul{
+    display: flex;
+    align-items: center;
+}
+.nav-right-ul li {
+    margin: 0 10px;
+    list-style: none;
+    
+}
+
+.nav-right-ul a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: black;
+    color: white;
+}
+
+.nav-left h4{
+    margin: 0 40px;
+}
+
+/* ----------- navbar ----------*/
+
+/* ----------- login ----------*/
+
+
+.lgn{
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.lg-form{
+    width: 50vh;
+    box-shadow: 0 0 10px black;
+    padding: 1rem;
+}
+
+.lg-form h2{
+    text-align: center;
+}
+
+
+
+
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+
+/* ----------- login ----------*/
